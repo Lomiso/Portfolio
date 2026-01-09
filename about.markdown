@@ -1,18 +1,14 @@
 ---
-layout: page
-title: About
+layout: single
+title: A propos
 permalink: /about/
 ---
 
-titulaire d'un baccalaureat technologique sti2d <br>
-Expréiences : XXXX <br>
-compétences techniques : XXXXX <br>
-qualités : patient <br>
-langue : francais , anglais scolaire <br>
-centre d'interet : jsp ,joué <br>
+Titulaire d'un baccalaureat technologique sti2d <br>
+Expériences : XXXX <br>
+Compétences techniques : XXXXX <br>
+Qualités : patient, bienveillant <br>
+Langue : français (langue maternelle) , anglais (niveaux scolaire ) <br>
+Centre d'interet : internet <br>
 
 
-
-[Accueil](/index/)<br>
-[Projets](/project/)<br>
-[Contact](/contact/)<br>

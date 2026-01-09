@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "A propos"
+    url: "/about/"
+  - title: "Contact"
+    url: /contact/
+
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

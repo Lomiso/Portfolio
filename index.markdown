@@ -10,13 +10,11 @@ permalink: /index/
 
 <img src="/ressources/avi.jpg" alt="tete" width="128"/>
 
- - descritpion de moi
- - risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, 
- - ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula 
- - massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci
- - nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl 
- - sit amet erat. Duis semper.
+ Bonjour Léandre Le Grives , je suis étudiant a la W3b@cademie de Epitech.<br>
+ Vous pourrez retrouver si desous les liens vars les autres pages 
 
 [Projets](/project/)<br>
 [A propos](/about/)<br>
-[Contact](/contact/)<br>
+[Contact](site.contact)<br>
+
+
